@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is the repository of the datascience course of Coursera.
+This is a repository of the datascience course of Coursera.
